@@ -99,7 +99,7 @@ const Footer = () => {
           <div className="icons">
             <Zoom>
               <span>
-                <a target="blank" href="https://github.com/idrisgani">
+                <a target="blank" href="https://github.com/MohamedIdris287">
                   <AiFillGithub />
                 </a>
               </span>

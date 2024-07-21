@@ -49,7 +49,7 @@ const ProfComponent = () => {
                 </a>
               </span>
               <span>
-                <a target="blank" href="https://github.com/idrisgani">
+                <a target="blank" href="https://github.com/MohamedIdris287">
                   <FaGithub />
                 </a>
               </span>
